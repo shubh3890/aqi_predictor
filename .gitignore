@@ -1,6 +1,7 @@
-node_modules
+node_modules/
 .env
-.env.local
 *.env
-dist
-build
+venv/
+__pycache__/
+dist/
+build/
